@@ -214,7 +214,6 @@ __marimo__/
 checkpoints/
 /bert/
 /bert_vits2/
-data/
 results/
 cozy/
 logs/
